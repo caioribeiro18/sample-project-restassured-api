@@ -1,0 +1,9 @@
+<suite thread-count="1" verbose="1" name="API Regression Testing with RestAssured and TestNG">
+
+    <test name="API Regression Testing with RestAssured and TestNG">
+        <classes>
+            <class name="org.example.CreateUserTestRunner"/>
+        </classes>
+    </test>
+
+</suite>
