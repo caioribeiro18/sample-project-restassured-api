@@ -17,6 +17,7 @@ gradle-wrapper.properties
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
+.idea/
 
 ### Allure Report ###
 allure-results/
