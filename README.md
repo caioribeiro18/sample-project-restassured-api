@@ -22,3 +22,6 @@ allure serve allure-results
 * Access the address of the local Allure service indicated in the terminal output.
 ## Screenshots
 These are the snapshots of the allure reports:
+
+![Screenshot_1](src/test/resources/Overview.png)
+![Screenshot_2](src/test/resources/suites.png)
